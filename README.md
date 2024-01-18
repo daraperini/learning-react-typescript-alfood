@@ -2,7 +2,7 @@
 
 Alfood is an Ifood-based website developed during Alura's course *React: integrating your React project with APIs*. I'll be using Docker to upload the back-end server and I'll refactor the inicial static code turning it dinamic using API Rest.
 
-> The project is currently being developed.
+> The project is currently in developement.
 
 ## Used tools:
 
