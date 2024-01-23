@@ -1,33 +1,59 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
+# Alfood
+
+Alfood is an Ifood-based website developed during Alura's course *React: integrating your React project with APIs*. I'll be using Docker to upload the back-end server and I'll refactor the inicial static code turning it dinamic using API Rest. Also I'll be creating an admin area so users can make changes however they want when logged in an admin account.
+
+> The project is currently in development.
+
+## Used tools:
+
+* React
+* TypeScript
+* Docker
+* API Rest
+
+*(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
+
+## Initializing the project on your computer
+
+- Clone the repository using the command line:
+    - git clone *link of the repository*
+    - cd *file of the repository*
+ 
+- Go to the projects main file:
+    - cd *name of the file*
+ 
+- Run the code:
+    - npm install (to install all project's dependencies)
+    - npm start (to open the project on your browser)
+ 
+* In case the project does not opend automatically type http://localhost:3000 on your browser
+
+#
 
 # Alfood
 
-O Alfood é um site que lista restaurantes e pratos do menu. 
-É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
+Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando seu projeto React com APIs*, da Alura. Nele utilizarei o Docker para subir o servidor beck-end e, com o auxílio do API Rest, vou refatorar o código inicial estático e torná-lo dinâmico. Além disso criarei uma área de administração em que os usuários poderão fazer mudanças nos restaurantes quando estiverem logados em uma conta administrativa.
 
-<img src="screencapture.png" alt="Imagem do Alfood" width="50%">
+> O projeto está em desenvolvimento.
 
+## Ferramentas utilizadas:
 
-## 🔨 Funcionalidades do projeto
+* React
+* TypeScript
+* Docker
+* API Rest
 
-O Alfood começa com uma listagem estática de seu conteúdo e é esse o problema que queremos resolver.
-No decorrer do curso, vamos implementar toda a camada de comunicação com a API.
+## Iniciando as versões do projeto na sua máquina
 
-## ✔️ Técnicas e tecnologias utilizadas
-
-Se liga nessa lista de tudo que usaremos nesse treinamento:
-
-- `React`
-- `React Hooks`
-- `TypeScript`
-- `axios`
-
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, execute npm i para instalar as dependências e npm start para inicar o projeto.
-
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
-
-## 📚 Mais informações do curso
-
-Busque na plataforma da Alura o curso **Integrando seu projeto React com APIs** publicado na Escola Frontend.
+- Clone o repositório através do terminal:
+    - git clone *link do repositório*
+    - cd *pasta do repositório*
+ 
+- Entre na pasta da versão que você deseja iniciar:
+    - cd *nome da pasta*
+ 
+- Rode o código na sua máquina:
+    - npm install (para instalar as dependências do projeto)
+    - npm start (para abrir o projeto no seu navegador)
+ 
+* Caso o projeto não abra automaticamente, digite http://localhost:3000 no seu navegador
