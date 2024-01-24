@@ -1,14 +1,15 @@
 # Alfood
 
-Alfood is an Ifood-based website developed during Alura's course *React: integrating your React project with APIs*. I'll be using Docker to upload the back-end server and I'll refactor the inicial static code turning it dinamic using API Rest. Also I'll be creating an admin area so users can make changes however they want when logged in an admin account.
+Alfood is an Ifood-based website developed during Alura's course *React: integrating your React project with APIs*. I used Docker to upload the back-end server and refactored the inicial static code turning it dinamic using API REST. I also created an admin area connected to the website's back-end in wich users can create new restaurants and meals, edit and delete them.
 
-> The project is currently in development.
+> Access the admin area typing: http://localhost:3000/admin
 
 ## Used tools:
 
 * React
 * TypeScript
 * Docker
+* Axios
 * API REST
 * MUI
 
@@ -45,7 +46,7 @@ Alfood is an Ifood-based website developed during Alura's course *React: integra
 
 # Alfood
 
-Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando seu projeto React com APIs*, da Alura. Nele utilizarei o Docker para subir o servidor beck-end e, com o auxílio do API Rest, refatorei o código inicial estático e o tornei dinâmico. Além disso criei uma área administrativa conectada com o servidor back-end do site, em que os usuários podem fazer mudanças nos restaurantes e nos pratos.
+Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando seu projeto React com APIs*, da Alura. Nele utilizarei o Docker para subir o servidor beck-end e, com o auxílio do API REST, refatorei o código inicial estático e o tornei dinâmico. Além disso criei uma área administrativa conectada com o servidor back-end do site, em que os usuários podem adicionar, editar e deletar restaurantes e pratos.
 
 > Acesse a área administrativa digitando: http://localhost:3000/admin
 
@@ -54,6 +55,7 @@ Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando 
 * React
 * TypeScript
 * Docker
+* Axios
 * API REST
 * MUI
 
