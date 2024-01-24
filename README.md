@@ -2,7 +2,7 @@
 
 Alfood is an Ifood-based website developed during Alura's course *React: integrating your React project with APIs*. I used Docker to upload the back-end server and refactored the inicial static code turning it dinamic using API REST. I also created an admin area connected to the website's back-end in wich users can create new restaurants and meals, edit and delete them.
 
-In the class I received the back-end API to work with and used Docker to run it.
+In the class I received the back-end API to work with and used Docker to run it. As the focus of the course was to work with API REST, some components were build using MUI.
 
 > Access the admin area typing: http://localhost:3000/admin
 
@@ -50,7 +50,7 @@ In the class I received the back-end API to work with and used Docker to run it.
 
 Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando seu projeto React com APIs*, da Alura. Nele utilizarei o Docker para subir o servidor beck-end e, com o auxílio do API REST, refatorei o código inicial estático e o tornei dinâmico. Além disso criei uma área administrativa conectada com o servidor back-end do site, em que os usuários podem adicionar, editar e deletar restaurantes e pratos.
 
-A API back-end foi disponibilizada no curso e foi rodada utilizando o Docker.
+A API back-end foi disponibilizada no curso e foi rodada utilizando o Docker. Como o foco do curso era o uso de API REST, alguns componentes foram criados utilizando MUI.
 
 > Acesse a área administrativa digitando: http://localhost:3000/admin
 
