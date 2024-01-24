@@ -15,9 +15,21 @@ Alfood is an Ifood-based website developed during Alura's course *React: integra
 
 ## Initializing the project on your computer
 
+- Install Docker[https://www.docker.com/products/docker-desktop/] in your computer;
+
 - Clone the repository using the command line:
     - git clone *link of the repository*
-    - cd *file of the repository*
+
+- Clone the API using the command line:
+    - git clone *API Link[https://github.com/alura-cursos/restaurantes_api]*
+    - cd *API file*
+
+- Run the API:
+    - docker-compose build
+    - docker-compose up
+
+- Open the API on the browser:
+   - type http://localhost:8000 on your browser
  
 - Go to the projects main file:
     - cd *name of the file*
@@ -32,7 +44,7 @@ Alfood is an Ifood-based website developed during Alura's course *React: integra
 
 # Alfood
 
-Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando seu projeto React com APIs*, da Alura. Nele utilizarei o Docker para subir o servidor beck-end e, com o auxílio do API Rest, vou refatorar o código inicial estático e torná-lo dinâmico. Além disso criarei uma área de administração em que os usuários poderão fazer mudanças nos restaurantes quando estiverem logados em uma conta administrativa.
+Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando seu projeto React com APIs*, da Alura. Nele utilizarei o Docker para subir o servidor beck-end e, com o auxílio do API Rest, refatorei o código inicial estático e o tornei dinâmico. Além disso criei uma área administrativa conectada com o servidor back-end do site, em que os usuários podem fazer mudanças nos restaurantes e nos pratos.
 
 > O projeto está em desenvolvimento.
 
@@ -45,12 +57,24 @@ Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando 
 
 ## Iniciando as versões do projeto na sua máquina
 
+- Instale o Docker[https://www.docker.com/products/docker-desktop/] na sua máquina;
+
 - Clone o repositório através do terminal:
     - git clone *link do repositório*
-    - cd *pasta do repositório*
  
-- Entre na pasta da versão que você deseja iniciar:
-    - cd *nome da pasta*
+- Clone a API através do terminal:
+    - git clone *Link da API[https://github.com/alura-cursos/restaurantes_api]*
+    - cd *pasta da API*
+  
+- Rode a API com os comandos:
+    - docker-compose build
+    - docker-compose up
+
+- Visualize a API no navegador:
+   - digite http://localhost:8000 no seu navegador
+ 
+- Entre na pasta do projeto:
+    - cd *pasta do projeto*
  
 - Rode o código na sua máquina:
     - npm install (para instalar as dependências do projeto)
