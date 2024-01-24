@@ -10,18 +10,19 @@ Alfood is an Ifood-based website developed during Alura's course *React: integra
 * TypeScript
 * Docker
 * API REST
+* MUI
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
 ## Initializing the project on your computer
 
-- Install Docker[https://www.docker.com/products/docker-desktop/] in your computer;
+- Install [Docker](https://www.docker.com/products/docker-desktop/) in your computer;
 
 - Clone the repository using the command line:
     - git clone *link of the repository*
 
 - Clone the API using the command line:
-    - git clone *API Link[https://github.com/alura-cursos/restaurantes_api]*
+    - git clone *[API](https://github.com/alura-cursos/restaurantes_api)*
     - cd *API file*
 
 - Run the API:
@@ -54,16 +55,17 @@ Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando 
 * TypeScript
 * Docker
 * API REST
+* MUI
 
 ## Iniciando as versões do projeto na sua máquina
 
-- Instale o Docker[https://www.docker.com/products/docker-desktop/] na sua máquina;
+- Instale o [Docker](https://www.docker.com/products/docker-desktop/) na sua máquina;
 
 - Clone o repositório através do terminal:
     - git clone *link do repositório*
  
 - Clone a API através do terminal:
-    - git clone *Link da API[https://github.com/alura-cursos/restaurantes_api]*
+    - git clone *[API](https://github.com/alura-cursos/restaurantes_api)*
     - cd *pasta da API*
   
 - Rode a API com os comandos:
