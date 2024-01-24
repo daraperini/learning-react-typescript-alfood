@@ -9,7 +9,7 @@ Alfood is an Ifood-based website developed during Alura's course *React: integra
 * React
 * TypeScript
 * Docker
-* API Rest
+* API REST
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
@@ -46,14 +46,14 @@ Alfood is an Ifood-based website developed during Alura's course *React: integra
 
 Alfood é um website baseado no Ifood, desenvolvido no curso *React: integrando seu projeto React com APIs*, da Alura. Nele utilizarei o Docker para subir o servidor beck-end e, com o auxílio do API Rest, refatorei o código inicial estático e o tornei dinâmico. Além disso criei uma área administrativa conectada com o servidor back-end do site, em que os usuários podem fazer mudanças nos restaurantes e nos pratos.
 
-> O projeto está em desenvolvimento.
+> Acesse a área administrativa digitando: http://localhost:3000/admin
 
 ## Ferramentas utilizadas:
 
 * React
 * TypeScript
 * Docker
-* API Rest
+* API REST
 
 ## Iniciando as versões do projeto na sua máquina
 
